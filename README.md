@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/L8Gq6cM/header-github.png" width="100%">
+  <img src="https://camo.githubusercontent.com/b950b7b134604928b03046f49e49339e083c749ee17289b4f7ceec17e089d41d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313134373435382f73637265656e73686f74732f363032333036322f6d656469612f36393931393635303436323164623739663435303265326566663230303031352e676966" alt="Abstract Banner" width="100%">
 </div>
 
 <br />
@@ -74,7 +74,7 @@ Saya memiliki passion yang kuat untuk belajar dan beradaptasi dengan teknologi b
 ---
 
 <div align="center">
-  <img src="https://i.ibb.co/hLqJ2YV/footer-github.png" width="100%">
+  <img src="https://camo.githubusercontent.com/b950b7b134604928b03046f49e49339e083c749ee17289b4f7ceec17e089d41d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313134373435382f73637265656e73686f74732f363032333036322f6d656469612f36393931393635303436323164623739663435303265326566663230303031352e676966" alt="Abstract Footer" width="100%">
   <p>Terima kasih sudah berkunjung! Mari berkolaborasi dan belajar bersama. 🙏</p>
 </div>
 
