@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://camo.githubusercontent.com/b950b7b134604928b03046f49e49339e083c749ee17289b4f7ceec17e089d41d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313134373435382f73637265656e73686f74732f363032333036322f6d656469612f36393931393635303436323164623739663435303265326566663230303031352e676966" alt="Abstract Banner" width="100%">
-</div>
+<img width="100%" title="CODING" alt="CODING" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <br />
 
@@ -66,15 +64,10 @@ Saya memiliki passion yang kuat untuk belajar dan beradaptasi dengan teknologi b
   <img src="https://github-readme-stats.vercel.app/api?username=AgungADL&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgungADL&theme=midnight-purple&hide_border=true&card_width=490" alt="GitHub Streak" />
-
-  <img src="https://github-contributions-svg.vercel.app/api?username=AgungADL&theme=dark" alt="GitHub Contributions" />
 </div>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/b950b7b134604928b03046f49e49339e083c749ee17289b4f7ceec17e089d41d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313134373435382f73637265656e73686f74732f363032333036322f6d656469612f36393931393635303436323164623739663435303265326566663230303031352e676966" alt="Abstract Footer" width="100%">
-  <p>Terima kasih sudah berkunjung! Mari berkolaborasi dan belajar bersama. 🙏</p>
-</div>
+![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
 
