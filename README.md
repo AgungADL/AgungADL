@@ -19,7 +19,7 @@
 
 <div align="center">
   <h1>Halo, saya Agung Arya Dwipa Laksana 👋</h1>
-  <p>Full-Stack Developer | Machine Learning Engineer</p>
+  <p>Full-Stack Developer</p>
   
   ---
 
@@ -31,9 +31,9 @@
 
 ### '-' Tentang Saya
 
-Saya adalah seorang **Full-Stack Developer** dan **Machine Learning Engineer** yang berdedikasi untuk membangun aplikasi web yang skalabel serta model AI yang cerdas dan efisien. Saya memiliki pengalaman dalam seluruh siklus pengembangan produk, mulai dari perancangan arsitektur, implementasi, hingga deployment.
+Saya adalah seorang **Full-Stack Developer** yang berdedikasi untuk membangun aplikasi web yang skalabel. Saya memiliki pengalaman dalam seluruh siklus pengembangan produk, mulai dari perancangan arsitektur, implementasi, hingga deployment.
 
-Saya memiliki passion yang kuat untuk belajar dan beradaptasi dengan teknologi baru. Saat ini saya fokus pada eksplorasi lebih dalam mengenai pengembangan AI.
+Saya memiliki passion yang kuat untuk belajar dan beradaptasi dengan teknologi baru. Saat ini saya fokus pada eksplorasi lebih dalam mengenai pengembangan website yang skalabel.
 
 ---
 
@@ -41,19 +41,16 @@ Saya memiliki passion yang kuat untuk belajar dan beradaptasi dengan teknologi b
 
 <div align="center">
   <h4>Front-end</h4>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Front-end Skills" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap" alt="Front-end Skills" /></a>
   
   <h4>Back-end</h4>
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,laravel,php,express,prisma" alt="Back-end Skills" /></a>
   
-  <h4>Machine Learning</h4>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=python,pytorch" alt="ML Skills" /></a>
-  
   <h4>Database & DevOps</h4>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,github,git" alt="DevOps Skills" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,github,gitlab,git" alt="DevOps Skills" /></a>
 
   <h4>Tools & Utilities</h4>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=figma,vscode,anaconda,postman" alt="DevOps Skills" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=figma,vscode,docker,postman" alt="DevOps Skills" /></a>
 </div>
 
 ---
@@ -61,8 +58,6 @@ Saya memiliki passion yang kuat untuk belajar dan beradaptasi dengan teknologi b
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgungADL&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgungADL&theme=midnight-purple&hide_border=true&card_width=490" alt="GitHub Streak" />
 </div>
 </div>
