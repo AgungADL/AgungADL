@@ -23,7 +23,7 @@
   
   ---
 
-  <h3>"Tuhan tidak melihat wujud dan harta benda Anda tetapi Dia melihat hati dan perbuatanmu."</h3>
+  <h3>"Tuhan tidak melihat wujud dan harta bendamu, tetapi Dia melihat hati dan perbuatanmu."</h3>
   <p>— Nabi Muhammad SAW.</p>
 </div>
 
